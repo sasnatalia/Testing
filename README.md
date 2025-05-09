@@ -5,6 +5,10 @@
 * Смотреть видео-курс Куликова и писать конспект
 * Смотреть курс Русова на степике и писать конспект
 
+## Базовые знания
+1. [Курс компьютерной грамотности для qa](https://www.youtube.com/playlist?list=PLJiynNYauVeJ_bMlfEAuPojwT3JaoO6Wv)
+2. [Шпаргалка для начинающих](https://t.me/QA4Life/3266)
+
 ## Источники
 1. [книга software_testing_book Куликов]( https://svyatoslav.biz/software_testing_book/ )
 2. [видео-курс Куликова ](https://svyatoslav.biz/education/software-testing-introduction-online-course/)
