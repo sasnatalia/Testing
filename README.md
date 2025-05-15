@@ -20,4 +20,7 @@
 8. Теория и программа подготовки к тесту ISTQB [Материалы ISTQB®](https://www.rstqb.org/ru/istqb-downloads.html)
 
 ## Еще источники
+Сайт, на который ссылается Куликов https://www.softwaretestingmentor.com/
 1. https://docs.google.com/spreadsheets/d/1qaCuDQMQFB7yGO8N4C_aC2ncyRobXkriReRsp-UTOE4/edit?gid=0#gid=0
+
+
