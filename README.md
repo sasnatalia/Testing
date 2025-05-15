@@ -23,4 +23,7 @@
 1. Сайт, на который ссылается Куликов и там много инфы на английском  https://www.softwaretestingmentor.com/
 2. https://docs.google.com/spreadsheets/d/1qaCuDQMQFB7yGO8N4C_aC2ncyRobXkriReRsp-UTOE4/edit?gid=0#gid=0
 
+## Тренажеры
+https://stepik.org/lesson/1037955/step/5?unit=1046484
+
 
