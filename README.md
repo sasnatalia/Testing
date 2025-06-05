@@ -36,4 +36,7 @@ https://stepik.org/lesson/1037955/step/5?unit=1046484
 ## Инструменты 
 https://xmind.com/
 
+## Статьи с практикой
+* https://habr.com/ru/articles/670428/
+
 
