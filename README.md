@@ -11,6 +11,8 @@
 * Сэм Канер о входящих после 40 и не только https://habr.com/ru/articles/647611/
 
 * Сначала нарушьте все правила. Что лучшие в мире менеджеры делают по-другому" (“First, Break All the Rules: What the World's Greatest Managers Do Differently”).
+* Clean Code – A Handbook of Agile Software Craftsmanship by Robert Cecil Martin
+
 
 ## Базовые знания
 1. [Курс компьютерной грамотности для qa](https://www.youtube.com/playlist?list=PLJiynNYauVeJ_bMlfEAuPojwT3JaoO6Wv)
