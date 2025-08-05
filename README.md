@@ -35,6 +35,12 @@
 ## Тренажеры
 https://stepik.org/lesson/1037955/step/5?unit=1046484
 
+## JS
+### Тренажеры
+https://learn.javascript.ru/string
+https://www.codewars.com/dashboard
+https://code-basics.com/ru/languages/javascript/lessons/variables-expressions
+
 ## Инструменты 
 https://xmind.com/
 
