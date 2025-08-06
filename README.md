@@ -35,11 +35,7 @@
 ## Тренажеры
 https://stepik.org/lesson/1037955/step/5?unit=1046484
 
-## JS
-### Тренажеры
-1 https://learn.javascript.ru/string
-2 https://www.codewars.com/dashboard
-3 https://code-basics.com/ru/languages/javascript/lessons/variables-expressions
+
 
 ## Инструменты 
 https://xmind.com/
