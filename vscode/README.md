@@ -2,3 +2,4 @@
 - [Настройка VS Code для разработки на JavaScript](https://itchief.ru/javascript/vscode-configuration-for-frontend-development) - 1h
 - [Шпаргалка по плагинам для VSCode](https://solidados.github.io/plugins_vscode/)
   
+- [Слепая печать](https://www.edclub.com/typingclub)
