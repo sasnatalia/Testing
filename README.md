@@ -35,6 +35,9 @@
 ## Тренажеры
 https://stepik.org/lesson/1037955/step/5?unit=1046484
 
+## Практика
+https://test.io/?link=Q 
+
 
 
 ## Инструменты 
