@@ -1,3 +1,6 @@
+## Glossary - Actions and Movements
+https://academy.test.io/en/articles/6628844-glossary-actions-and-movements
+
 ## Шаблон отчета по багу
 https://docs.google.com/spreadsheets/d/1I7E3C-XCNOXk_Q7ONrYBxaNHgeU4E5zaqESYketWPHo/edit?usp=sharing
 
