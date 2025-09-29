@@ -1,2 +1,14 @@
+## Шаблон отчета по багу
+https://docs.google.com/spreadsheets/d/1I7E3C-XCNOXk_Q7ONrYBxaNHgeU4E5zaqESYketWPHo/edit?usp=sharing
+
 ## Требования к написанию баг-отчетов
 https://academy.test.io/en/articles/2541949-bug-report-requirements 
+
+## Content-bugs
+https://academy.test.io/en/articles/2652224-content-bugs
+
+## Visual-bugs
+https://academy.test.io/en/articles/2652233-visual-bugs
+
+## Functional Bugs
+https://academy.test.io/en/articles/2570792-functional-bugs
