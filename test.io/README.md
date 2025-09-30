@@ -18,3 +18,10 @@ https://academy.test.io/en/articles/2652233-visual-bugs
 
 ## Functional Bugs
 https://academy.test.io/en/articles/2570792-functional-bugs
+
+## Attachment SCREENCAST (REQUAREMENTS)
+Follow every step precisely in the order provided.
+URL must be visible in your screencast.
+The current date must be visible in any common date format, e.g. DD/MM or MM/DD in English.
+The maximum size of your file should be 25 MB.
+The file format should be MP4.
