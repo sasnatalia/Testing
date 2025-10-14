@@ -13,7 +13,11 @@
 * Сначала нарушьте все правила. Что лучшие в мире менеджеры делают по-другому" (“First, Break All the Rules: What the World's Greatest Managers Do Differently”).
 * Clean Code – A Handbook of Agile Software Craftsmanship by Robert Cecil Martin
 
-
+## ISTQB подготовка
+ 1. Видео (https://www.youtube.com/watch?v=LvIYpG6WuRk&list=PLIzM8WZiml6JEYF1dleTW97pHJWxuYSTM&index=3)
+ 2. Softwaretestingmentor.com (https://www.softwaretestingmentor.com/istqb-advanced-certification/testing-process/)
+ 3. Теория [книга software_testing_book Куликов]( https://svyatoslav.biz/software_testing_book/ )
+ 
 ## Базовые знания
 1. [Курс компьютерной грамотности для qa](https://www.youtube.com/playlist?list=PLJiynNYauVeJ_bMlfEAuPojwT3JaoO6Wv)
 2. [Шпаргалка для начинающих](https://t.me/QA4Life/3266)
