@@ -50,4 +50,6 @@ https://xmind.com/
 ## Статьи с практикой
 * https://habr.com/ru/articles/670428/
 
+* https://sjsi.org/
+
 
