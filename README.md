@@ -17,6 +17,7 @@
  1. Видео (https://www.youtube.com/watch?v=LvIYpG6WuRk&list=PLIzM8WZiml6JEYF1dleTW97pHJWxuYSTM&index=3)
  2. Softwaretestingmentor.com (https://www.softwaretestingmentor.com/istqb-advanced-certification/testing-process/)
  3. Теория [книга software_testing_book Куликов]( https://svyatoslav.biz/software_testing_book/ )
+ 4. https://sjsi.org/
  
 ## Базовые знания
 1. [Курс компьютерной грамотности для qa](https://www.youtube.com/playlist?list=PLJiynNYauVeJ_bMlfEAuPojwT3JaoO6Wv)
@@ -50,6 +51,8 @@ https://xmind.com/
 ## Статьи с практикой
 * https://habr.com/ru/articles/670428/
 
-* https://sjsi.org/
+  
+
+* 
 
 
