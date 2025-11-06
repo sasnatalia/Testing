@@ -20,6 +20,7 @@
  4. https://sjsi.org/
 5. Можно дистанциоонно сдавать https://www.gasq.org/ru/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F.html
 6. https://tryqa.com/
+7. [Можно тренировать вопросы на английском] https://www.gasq.org/en/certification/sample-exam.html?utm_source=chatgpt.com
  
 ## Базовые знания
 1. [Курс компьютерной грамотности для qa](https://www.youtube.com/playlist?list=PLJiynNYauVeJ_bMlfEAuPojwT3JaoO6Wv)
